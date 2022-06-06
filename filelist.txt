@@ -1,0 +1,11 @@
+razem 32
+drwxrwxr-x 6 zidsigard zidsigard 4096 maj 29 17:24 .
+drwxrwxr-x 4 zidsigard zidsigard 4096 maj 23 20:08 ..
+-rw-rw-r-- 1 zidsigard zidsigard    0 maj 28 11:37 file1.txt
+-rw-rw-r-- 1 zidsigard zidsigard    0 maj 29 17:24 filelist.txt
+drwxrwxr-x 8 zidsigard zidsigard 4096 maj 29 11:28 .git
+drwxrwxrwx 2 zidsigard zidsigard 4096 maj 28 11:42 katalog1
+drwxrwxr-x 2 zidsigard zidsigard 4096 maj 28 11:42 katalog2
+drwxrwxr-x 2 zidsigard zidsigard 4096 maj 28 11:42 katalog3
+-rwxrwxrwx 1 zidsigard zidsigard   58 maj 28 11:55 list_directories_loop.sh
+-rwxrwxr-x 1 zidsigard zidsigard  433 maj 29 11:27 script.sh
