@@ -1,0 +1,5 @@
+razem 12
+drwxrwxrwx 2 zidsigard zidsigard 4096 maj 30 20:09 .
+drwxrwxr-x 6 zidsigard zidsigard 4096 maj 30 20:05 ..
+-rwxrwxr-x 1 zidsigard zidsigard   38 maj 30 20:09 list_files_to_txt.sh
+-rw-rw-r-- 1 zidsigard zidsigard    0 maj 30 20:09 listoffiles.txt
